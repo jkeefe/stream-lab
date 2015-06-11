@@ -2,7 +2,7 @@
 A reporting and sensor journalism project at West Virginia University Reed College of Media for Fall 2015.
 
 ## Background
-For infomration on the genesis and funding, see [the original proposal](http://www.knightfoundation.org/blogs/knightblog/2015/4/21/west-virginia-university-innovator-residence-program-taps-experience-professionals-practical-methods/) and [this story about the grant award](http://wvutoday.wvu.edu/n/2015/04/28/college-of-media-receives-grant-for-water-journalism-project).
+For details on the genesis and funding, see [the original proposal](http://www.knightfoundation.org/blogs/knightblog/2015/4/21/west-virginia-university-innovator-residence-program-taps-experience-professionals-practical-methods/) and [this story about the grant award](http://wvutoday.wvu.edu/n/2015/04/28/college-of-media-receives-grant-for-water-journalism-project).
 
 ## Partners
 - The [Public Lab Open Water Project](http://publiclab.org/wiki/open-water)
