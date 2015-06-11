@@ -31,7 +31,10 @@ The core of this class is exploring how citizen science and crowdsourced data co
 
 - The benefits and perils of crowdsourcing journalism
 - Basic concepts around building data stories of any kind
-- Issues of accuracy and precision ... and what happens if we lack both
+- Issues of data accuracy and precision
+  - What happens if we lack both?
+  - How do we clearly communicate it to the public?
+  - How do these issues advance or limit what we can do?
 - Determining the environmental issues in the WVU area
 - Finding the water stories that need to be told in or around Morgantown
 - Identifying our experts, sources, subjects and characters
