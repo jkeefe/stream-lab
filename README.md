@@ -17,7 +17,7 @@ For infomration on the genesis and funding, see [the original proposal](http://w
 - Our process, findings and activities will be open and intentionally documented for public viewing
 
 ## Objectives
-1. To explore the interssection of citizen science and journalism
+1. To explore the intersection of citizen science and journalism
 2. To explore the benefits and limits of inexpensive sensors as environmental data collectors
 3. To provide information, experiences and feedback to the communities of journalism, public science and open-source sensor hardware
 
@@ -54,9 +54,9 @@ Our project centers on issues of water quality in the streams, lakes and rivers 
 
 ### Hardware Development & Deployment
 
-Our operting notion is that wide deployment of cheap, open-source sensors, while individually less precise than professional devices, may together may provide general insights and data to tell stories about our community. In order to put this into action, we need to understand our sensors, figure out how to get them into the field, and figure out how to get the data back. 
+Our operating notion is that wide deployment of cheap, open-source sensors, while individually less precise than professional devices, may together may provide general insights and data to tell stories about our community. In order to put this into action, we need to understand our sensors, figure out how to get them into the field, and figure out how to get the data back. 
 
-- Understandig the Riffle water detector
+- Understanding the Riffle water detector
   - How it works
   - What it does
   - How long it works
