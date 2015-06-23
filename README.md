@@ -55,6 +55,12 @@ Our project centers on issues of water quality in the streams, lakes and rivers 
 - What is turbidity, and what can it reasonably tell us? 
 - Is our methodology valid -- from a scientific and/or journalistic point of view -- given what's known about water science?
 
+This will also involve working with water experts and researchers, who understand the real science of water quality studies, but also understand the potential for lower-resolution citizen sensors.
+
+- How do experts study water contamination?
+- What are the possibilities and limits of amateurs using sensors?
+- Where can they overlap?
+
 ### Hardware Development & Deployment
 
 Our operating notion is that wide deployment of cheap, open-source sensors, while individually less precise than professional devices, may together may provide general insights and data to tell stories about our community. In order to put this into action, we need to understand our sensors, figure out how to get them into the field, and figure out how to get the data back. 
@@ -79,4 +85,61 @@ Along the way, and in the end, we will publish our process, findings, failings a
 - In journalism-oriented sites (such as Neiman Lab or Source)
 - Through project-in-progress coverage in local media
 - Through final findings in local media and elsewhere
+
+## Checklist
+
+- Identify interesting issues and stories could we study in streams / water bodies in the area
+- Understand expert water quality study
+- Understand amateur water quality study (like Riffle)
+  - Exploring the device
+  - Exploring the principles
+  - Testing it out
+  - Understanding the data
+- Figure out where to deploy the sensors
+- Figure out when to deploy them
+- Deploy
+- Check on them
+- Reterive
+- Data analysis and interpretation
+- Story craft and development
+- Story publishing and distribution
+
+## Site
+
+- About the project
+- Capture hashtagged content
+- Student blog posts
+- Instructor blog posts
+- Pictures
+- Graphs
+- Maps
+- Link out to github or other site for 
+  - Data files
+  - Code
+  - Raw materials
+
+## Roles
+
+### Dana Coester
+
+- Academic and administrative lead
+- Grading protocols
+- Grant deliverable tracking
+
+### John Keefe
+
+- Editorial and technical lead
+
+### Emily Corio
+
+- Liaison to community contacts for watershed and water researchers issues
+- Liaison with local journalism organization
+
+### Dave Mistich
+
+- Journalistic partner for regional innovation
+
+## Schedule
+
+The schedule will follow the checklist ... and dates are to be nailed down.
 
